@@ -1,4 +1,4 @@
-# Kivi Voice — README
+# Kivi Connected
 
 ## How to Run
 
