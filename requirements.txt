@@ -1,6 +1,6 @@
 streamlit
 Pillow
 sarvamai
-streamlit-cookies-manager
+streamlit-cookies-manager-v2
 bcrypt
 chromadb
