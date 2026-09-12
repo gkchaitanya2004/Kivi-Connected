@@ -1,0 +1,2 @@
+
+Kivi should be a kind of app that, once a user discusses anything in the app, in any format, remembers the **important context** of that discussion, so that the user doesn't have to **repeat everything over and over again** in a different format. This is because the main goal of an **agentic system** is to make the user's life easier. Also, Kivi should **acknowledge context switches** made by the user in a given session, so that the user can speak about various **sub-branches of the main topic**, and Kivi will still be **connected to the original thing**.

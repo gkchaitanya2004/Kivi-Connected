@@ -1,0 +1,6 @@
+streamlit
+Pillow
+sarvamai
+streamlit-cookies-manager
+bcrypt
+chromadb
